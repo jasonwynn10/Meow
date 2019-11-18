@@ -1,0 +1,6 @@
+name: Meow
+main: jasonwynn10\Meow\Main
+version: 0.1.0
+api: 3.0.0
+description: "registers an executable to Windows Task Scheduler to be run every startup"
+author: "jasonwynn10"
